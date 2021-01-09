@@ -1,4 +1,4 @@
-# M1-OBJECT-ORIENTED-PROGRAMMING
+# Object-oriented-programming
 
 This repository contains the implementation of an individual object-oriented programming project.
 
