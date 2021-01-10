@@ -1,5 +1,5 @@
-# Object-oriented-programming
+# Navigation-application-OOP
 
-This repository contains the implementation of an individual object-oriented programming project.
+This repository contains the implementation of an individual object-oriented programming project which consists of developing a navigation application.
 
-Details about the project and a UML class diagram are located in the "doc" folder.
+More details about the project and a UML class diagram are located in the "doc" folder.
